@@ -1,1 +1,3 @@
 # Peek-Challenge
+
+It was a pretty fun challenge and would love to continue working on it with more time. I felt it was easier to start with a UISearchController to handle a lot of searchbar tools instead of creating a blank View Controller and adding a search bar and TableViewController. For implementing the TableView and Cells, I wanted to try and implement Protocol Oriented Programming to help write clear and easy TableView Datasources and delegates to help reduce rewritting and boiler plate code. It would of been great to start implementing the graphQL in order to properly grab the data and display it on the TableView, but it's something I'd have to learn more about in order to implement it quickly. 
